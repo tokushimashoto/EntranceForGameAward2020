@@ -1,0 +1,2 @@
+# EntranceForGameAwards2020
+EntranceTeamForJapanGameAwards2020
